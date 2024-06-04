@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "barang": "Meja",
+      "price": "200000",
+      "id": 1
+    },
+    {
+      "barang": "Kursi",
+      "price": "40000",
+      "id": 2
+    },
+    {
+      "barang": "Keyboard gaming",
+      "price": "800000",
+      "id": 3
+    },
+    {
+      "barang": "Tupperware",
+      "price": "85000",
+      "id": 4
+    }
+  ]
+}
